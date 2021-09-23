@@ -5,4 +5,4 @@ As a former MSc student in Management with a specialisation in Business Analytic
 Furthermore, I have additionally made available the bookdown I built to have one summary/overview of the several topics including programming cheat sheets.  
 I particularly enjoy working with R & R Markdown though I also have been gaining experience in programs such as: Python, SPSS, Excel and Jupiter Notebooks.
 
-Thank you for taking the time to discover my projects.
+Thank you for taking the time to explore my projects.
